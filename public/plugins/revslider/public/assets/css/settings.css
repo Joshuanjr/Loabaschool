@@ -966,7 +966,7 @@ img.tp-slider-alternative-image {
 .purchase:hover.green,
 .tp-button.green,
 .tp-button:hover.green {
-    background-color: #21a117;
+    background-color: #ffdb58;
     box-shadow: 0 3px 0 0 #104d0b
 }
 
@@ -1623,7 +1623,7 @@ img.tp-slider-alternative-image {
 .tp-bullet:hover {
     background: #fff
 }
-
+/* 
 .tparrows {
     cursor: pointer;
     background: #000;
@@ -1646,7 +1646,7 @@ img.tp-slider-alternative-image {
     display: block;
     line-height: 40px;
     text-align: center
-}
+} */
 
 .hginfo,
 .hglayerinfo {

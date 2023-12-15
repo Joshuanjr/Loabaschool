@@ -23,6 +23,7 @@
 .gdlr-core-page-builder-body img {
     max-width: 100%;
     height: auto;
+    
 }
 
 .gdlr-core-page-builder-body a {
@@ -2845,6 +2846,7 @@
 
 .gdlr-core-title-item .gdlr-core-title-item-title-wrap {
     position: relative;
+    margin-left: 27%;
 }
 
 .gdlr-core-title-item .gdlr-core-title-item-divider {
@@ -3165,7 +3167,7 @@
 }
 
 .gdlr-core-course-item.gdlr-core-course-style-list-info .gdlr-core-course-item-id {
-    color: #3db166;
+    color: #ffdb58;
 }
 
 .gdlr-core-course-item.gdlr-core-course-style-list-info .gdlr-core-course-item-list {
@@ -3178,7 +3180,7 @@
 
 .gdlr-core-course-item.gdlr-core-course-style-list-info .gdlr-core-course-item-button,
 .gdlr-core-course-item.gdlr-core-course-style-list-info .gdlr-core-course-item-button:hover {
-    background-color: #50bd77;
+    background-color: #ffdb58;
     color: #fff;
 }
 
@@ -7949,7 +7951,7 @@ ul.gdlr-core-product-sub-category li h3 {
 }
 
 .gdlr-core-body .gdlr-core-course-form input[type="submit"] {
-    background: #50bd77;
+    background: #ffdb58;
 }
 
 .gdlr-core-course-form input::-webkit-input-placeholder {

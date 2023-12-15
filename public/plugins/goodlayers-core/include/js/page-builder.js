@@ -2550,7 +2550,7 @@
 
                 // turns image link to open in lightbox
                 if ($(this).hasClass('gdlr-core-link-to-lightbox')) {
-                    var image_link = $(this).find('a[href$=".jpg"], a[href$=".jpeg"], a[href$=".png"], a[href$=".gif"]')
+                    var video_link = $(this).find('a[href$=".mp4"]')
                         .not('.gdlr-core-ilightbox, .strip, [data-rel], .gdlr-core-lightgallery, .gdlr-core-social-share-pinterest')
                         .addClass('strip gdlr-core-ilightbox gdlr-core-lightgallery').each(function() {
 
@@ -2569,10 +2569,11 @@
 
                             }
                         });
-                    $(this).gdlr_core_lightbox(image_link);
+                    $(this).gdlr_core_lightbox(video_link);
                 }
+                
 
-                var gdlr_core_js = $(this).find('.gdlr-core-js, iframe[src*="youtube"], iframe[src*="vimeo"]');
+                var gdlr_core_js = $(this).find('.gdlr-core-js, iframe[src*="https://player.vimeo.com/video/881543203?h=cd610a14f3"], iframe[src*="https://player.vimeo.com/video/881543203?h=cd610a14f3"]');
 
                 // video resizing
                 $(this).gdlr_core_content_script(gdlr_core_js, true);

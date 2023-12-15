@@ -420,7 +420,7 @@ body .page-links>span,
 body .page-links>a:hover,
 body .nav-links>span.current,
 body .nav-links>a:hover {
-    background-color: #3db166;
+    background-color: #ffdb58;
     color: #fff;
 }
 
@@ -782,7 +782,7 @@ input[type="reset"]:focus {
 }
 
 .kingster-body .kingster-top-bar .kingster-top-bar-right-button {
-    background: #3db166;
+    background: #ffdb58;
     color: #fff;
 }
 
@@ -4715,8 +4715,8 @@ html .widget_product_search input#woocommerce-product-search-field {
 }
 
 .woocommerce .woocommerce-message {
-    background-color: #46ca7b;
-    border-top: 3px solid #46ca7b;
+    background-color: #ffdb58;
+    border-top: 3px solid #ffdb58;
     color: #fff;
 }
 
@@ -5999,7 +5999,7 @@ body .tribe-bar-views-inner {
 }
 
 #gdlr-core-button-id-66813:hover {
-    color: #3db166
+    color: #ffdb58
 }
 
 @media only screen and (max-width: 767px) {
@@ -6028,51 +6028,51 @@ body .tribe-bar-views-inner {
 }
 
 #gdlr-core-title-item-id-66469 .gdlr-core-title-item-title a {
-    color: #3db166
+    color: #ffdb58
 }
 
 #gdlr-core-title-item-id-66469 .gdlr-core-title-item-title a:hover {
-    color: #59c17a
+    color: #ffdb58
 }
 
 #gdlr-core-title-item-id-42777 .gdlr-core-title-item-title a {
-    color: #3db166
+    color: #ffdb58
 }
 
 #gdlr-core-title-item-id-42777 .gdlr-core-title-item-title a:hover {
-    color: #59c17a
+    color: #ffdb58
 }
 
 #gdlr-core-title-item-id-51281 .gdlr-core-title-item-title a {
-    color: #3db166
+    color: #ffdb58
 }
 
 #gdlr-core-title-item-id-51281 .gdlr-core-title-item-title a:hover {
-    color: #59c17a
+    color: #ffdb58
 }
 
 #gdlr-core-title-item-id-78243 .gdlr-core-title-item-title a {
-    color: #3db166
+    color: #ffdb58
 }
 
 #gdlr-core-title-item-id-78243 .gdlr-core-title-item-title a:hover {
-    color: #59c17a
+    color: #ffdb58
 }
 
 #gdlr-core-title-item-id-14842 .gdlr-core-title-item-title a {
-    color: #3db166
+    color: #ffdb58
 }
 
 #gdlr-core-title-item-id-14842 .gdlr-core-title-item-title a:hover {
-    color: #59c17a
+    color: #ffdb58
 }
 
 #gdlr-core-title-item-id-33183 .gdlr-core-title-item-title a {
-    color: #3db166
+    color: #ffdb58
 }
 
 #gdlr-core-title-item-id-33183 .gdlr-core-title-item-title a:hover {
-    color: #59c17a
+    color: #ffdb58
 }
 
 @media only screen and (max-width: 767px) {
@@ -6117,7 +6117,7 @@ body .tribe-bar-views-inner {
 }
 
 .filter a.active {
-    color: #3db166 !important;
+    color: #ffdb58 !important;
 }
 
 .input1 {
@@ -6160,7 +6160,7 @@ body .tribe-bar-views-inner {
     width: 100%;
     display: block;
     -webkit-appearance: none;
-    background-color: #3db166;
+    background-color: #ffdb58;
     border: 0;
     color: #fff;
     font-style: normal !important;
