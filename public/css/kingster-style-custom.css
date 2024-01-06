@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Wide+Latin&display=swap');
+
 .kingster-page-title-wrap {
     background-image: url(../upload/page-title.jpg);
 }
@@ -1598,6 +1600,8 @@ body.kingster-boxed .kingster-body-wrapper,
 .kingster-body * {
     border-color: #e6e6e6;
 }
+
+
 
 .kingster-body .gdlr-core-portfolio-single-nav-wrap {
     border-color: #e6e6e6;
@@ -4978,4 +4982,3 @@ body .gdlr-core-flipbox-item .gdlr-core-flipbox-item-image {
 #div_983a_50 {
     padding-bottom: 0px;
 }
-
